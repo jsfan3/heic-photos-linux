@@ -1,2 +1,2 @@
-# heic-photos-linux
-Baeldung's article - How to View .HEIC Photos on Linux
+# How to View .HEIC Photos on Linux
+This is part of a Baeldung tutorial
